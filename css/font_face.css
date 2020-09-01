@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Gelion';
+    src: url('../media/fonts/gelion-light-webfont.woff2') format('woff2'),
+         url('../media/fonts/gelion-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Gelion';
+    src: url('../media/fonts/gelion-medium-webfont.woff2') format('woff2'),
+         url('../media/fonts/gelion-medium-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Gelion';
+    src: url('../media/fonts/gelion-regular-webfont.woff2') format('woff2'),
+         url('../media/fonts/gelion-regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recoleta';
+    src: url('../media/fonts/recoletaalt-medium-webfont.woff2') format('woff2'),
+         url('../media/fonts/recoletaalt-medium-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Recoleta';
+    src: url('../media/fonts/recoletaalt-regular-webfont.woff2') format('woff2'),
+         url('../media/fonts/recoletaalt-regular-webfont.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Recoleta';
+    src: url('../media/fonts/recoletaalt-semibold-webfont.woff2') format('woff2'),
+         url('../media/fonts/recoletaalt-semibold-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+
+}
